@@ -1,0 +1,154 @@
+body{
+  background-color: #effffb;
+}
+img{
+  border-radius: 50%;
+  width: 30%;
+}
+hr {
+  border-style: ridge;
+  border-style: none solid dotted dashed;
+  width: 15%;
+  align: center;
+  border-width: 1px;
+}
+.signature p
+{
+  font-size: 20px;
+  color: #550a46;
+ font-weight: bold;
+}
+h3
+{
+  text-align: center;
+  font-size: 30px;
+  font-family: "sans-serif";
+  font-weight: bold;
+  margin-top: 0;
+  color: blue;
+}
+.qualities{
+  font-size: 20px;
+  font-family:"sans-serif";
+  margin-bottom: 0;
+  color: blue;
+  text-align: justify;
+}
+.synopsis h4
+{
+  font-size: 25px;
+  font-family:"sans-serif";
+  margin-bottom: 0;
+  color: #550a46;
+  text-align: justify;
+  font-weight: bold;
+}
+.synopsis
+{
+  font-size: 20px;
+  font-family:"sans-serif";
+  margin-bottom: 0;
+  color: blue;
+  text-align: justify;
+}
+.expertise h4{
+  font-size: 25px;
+  color: #550a46;
+  font-weight: bold;
+}
+
+.expertise{
+  font-size: 20px;
+  font-family:"sans-serif";
+  margin-bottom: 0;
+  color: blue;
+  text-align: justify;
+}
+.technical h4
+{
+  font-size: 25px;
+  color: #550a46;
+  font-weight: bold;
+}
+.technical
+{
+  font-size: 20px;
+  font-family:"sans-serif";
+  margin-bottom: 0;
+  color: blue;
+  text-align: justify;
+}
+table p{
+  margin-left: 35px;
+}
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: left;
+}
+.academic h4{
+
+    font-size: 25px;
+    color: #550a46;
+    font-weight: bold;
+}
+table tr th{
+  font-size: 25px;
+  color: #fe9801;
+  font-weight: bold;
+}
+.academic
+{
+  font-size: 20px;
+  font-family:"sans-serif";
+  margin-left: 0;
+  color: blue;
+  text-align: justify;
+
+}
+.experience p{
+  font-size: 25px;
+  font-family:"sans-serif";
+  margin-left: 0;
+  color: #9d0b0b;
+  text-align: justify;
+  font-weight: bold;
+}
+.experience h4{
+  font-size: 25px;
+  color: #550a46;
+  font-weight: bold;
+}
+.experience{
+  font-size: 20px;
+  font-family:"sans-serif";
+  margin-left: 0;
+  color: blue;
+  text-align: justify;
+}
+.qualities h4
+{
+    font-size: 25px;
+    color: #550a46;
+    font-weight: bold;
+}
+.qualities{
+  font-size: 20px;
+  font-family:"sans-serif";
+  margin-left: 0;
+  color: blue;
+  text-align: justify;
+}
+.personal h4{
+  font-size: 25px;
+  color: #550a46;
+  font-weight: bold;
+}
+.personal{
+  font-size: 20px;
+  font-family:"sans-serif";
+  margin-left: 0;
+  color: blue;
+  text-align: justify;
+}
